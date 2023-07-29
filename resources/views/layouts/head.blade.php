@@ -14,7 +14,7 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="bg-blue-200 border h-screen">
+<body class="bg-blue-200 border h-screen overflow-hidden">
     @yield('body')
 </body>
 
